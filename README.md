@@ -5,7 +5,7 @@
 [Download Resume](https://your-link-to-resume.com)  
 
 ### 📷 My Photo  
-![My Photo](https://your-link-to-photo.com)  
+![My Photo](https://https://photos.app.goo.gl/NfXv9UBsVybtULFi6)  
 
 ### 🔗 Connect with me:  
 - 📸 [Instagram](https://instagram.com/utka_rsh516)  - 👋 Hi, I’m @utkarsh516

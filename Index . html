@@ -15,3 +15,18 @@
     <script src="script.js"></script>
 </body>
 </html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Mera Instagram Profile">
+    <title>Mera Instagram</title>
+</head>
+<body>
+    <h1>Mujhe Instagram Par Follow Karein</h1>
+    <a href="https://www.instagram.com/utka_rsh516" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram Logo" width="100">
+    </a>
+</body>
+</html>
